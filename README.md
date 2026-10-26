@@ -37,11 +37,11 @@ Az `idopontkeres` Netlify Forms űrlap mind a négy fő oldalon jelen van, honey
 
 Az adatkezelési tájékoztató a kapott Fegyvertár-sablonból, a tényleges működéshez igazítva készült. Adatkezelő Szente Zita, a kapcsolati e-mail-cím nyilvános feltüntetését a projektgazda engedélyezte. A tesztüzeneteket a projektgazdának manuálisan törölnie kell a Netlify-ból és postafiókjából, a teszt lezárásakor, legkésőbb 30 napon belül.
 
-2026. október 26-án az élő Kapcsolat oldalról küldött próbaüzenet után megjelent a köszönőoldal, a Netlify Forms pedig 1 beérkezett beküldést mutatott. Az e-mail tényleges beérkezése még ellenőrzés alatt áll.
+2026. október 26-án az élő Kapcsolat oldalról küldött próbaüzenet után megjelent a köszönőoldal, a Netlify Forms pedig 1 beérkezett beküldést mutatott. A projektgazda visszaigazolta a próbaüzenet e-mailes megérkezését.
 
 A Kisokos opcionális funkció. A fájl nem szerepelt az alapanyagban, ezért jelenleg tájékoztató blokk van működést ígérő feliratkozóűrlap helyett.
 
-A Figma-összehasonlítás végleges szövege az eredeti terv és a valós időráfordítások ismeretében írható meg. PageSpeed-pontszám még nincs mérve.
+A Figma-tervvel való 9 mondatos összehasonlítás és a két beadási link a `BEADAS.md` fájlban található. A projektgazda becslése: Figma 10 óra, AI 3,5 óra. Saját telefonos teszt visszaigazolása még nincs; PageSpeed-pontszám még nincs mérve.
 
 ## Képforrások
 

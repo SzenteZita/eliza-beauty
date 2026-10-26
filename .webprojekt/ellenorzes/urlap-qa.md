@@ -11,5 +11,5 @@
 - Netlify Forms felismerés engedélyezve; értesítés a projektgazda megadott postafiókjára.
 - Publikált deploy: 6adfa5809586de6703166e0e.
 - Egy próbaüzenet az élő Kapcsolat oldalról: köszönőoldal megjelent, Netlify Forms 1 submission visszajelzés.
-- Az e-mail-értesítés tényleges beérkezése még nincs igazolva.
-- Következő feladat: kézbesítés igazolása; Figma-összehasonlítás és saját telefonos teszt. PageSpeed még nincs mérve.
+- A projektgazda a „Megvan” válasszal megerősítette a próbaüzenet e-mailes beérkezését.
+- A Figma-összehasonlítás elkészült a BEADAS.md fájlban. Saját telefonos teszt visszaigazolása és opcionális PageSpeed-mérés még nincs.
