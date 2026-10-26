@@ -1,5 +1,5 @@
 {
-  "phase": "site_local_complete",
+  "phase": "site_deployed_forms_pending",
   "is_redesign": false,
   "source_url": null,
   "direction_count": 3,
@@ -8,6 +8,10 @@
   "privacy_status": "awaiting_course_template",
   "form_status": "netlify_prepared_disabled",
   "github_status": "uploaded",
-  "netlify_status": "not_deployed",
-  "github_url": "https://github.com/SzenteZita/eliza-beauty"
+  "netlify_status": "public",
+  "github_url": "https://github.com/SzenteZita/eliza-beauty",
+  "netlify_url": "https://eliza-beauty-szentezita.netlify.app/",
+  "netlify_project_id": "9682e3b0-64aa-4ba8-abf5-44a39b5dbeeb",
+  "netlify_deploy_id": "6adf9d4cfbb8e394abfe216b",
+  "netlify_deploy_method": "manual_zip"
 }
