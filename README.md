@@ -23,7 +23,9 @@ A statikus HTML az elsődleges, közvetlenül szerkeszthető forrás a `site/` a
 
 ## Élesítés állapota
 
-A webhely helyben elkészült és Gitben mentett. Még nincs GitHub-remote vagy Netlify-deploy.
+A webhely helyben elkészült és GitHubra feltöltve: https://github.com/SzenteZita/eliza-beauty
+
+A három munkafázis külön commitként szerepel. Netlify-élesítés még nincs.
 
 Netlify publikálási könyvtár: `dist`, buildparancs nem szükséges, ha a commitolt dist tartalma naprakész. Konfiguráció: `netlify.toml`.
 

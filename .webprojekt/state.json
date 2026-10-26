@@ -7,6 +7,7 @@
   "selected_direction": 3,
   "privacy_status": "awaiting_course_template",
   "form_status": "netlify_prepared_disabled",
-  "github_status": "connection_pending",
-  "netlify_status": "not_deployed"
+  "github_status": "uploaded",
+  "netlify_status": "not_deployed",
+  "github_url": "https://github.com/SzenteZita/eliza-beauty"
 }
