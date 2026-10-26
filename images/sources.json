@@ -1,0 +1,32 @@
+[
+  {
+    "file": "images/room.webp",
+    "source": "https://www.pexels.com/photo/waiting-room-in-spa-17640381/",
+    "download": "https://images.pexels.com/photos/17640381/pexels-photo-17640381.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "author": "Rasul Abdurahimov",
+    "width": 1600,
+    "height": 1132,
+    "bytes": 265004,
+    "usage": "Stock hangulatkép, nem a valódi szalon vagy Eliza fotója"
+  },
+  {
+    "file": "images/treatment.webp",
+    "source": "https://www.pexels.com/photo/woman-getting-a-facial-treatment-7446659/",
+    "download": "https://images.pexels.com/photos/7446659/pexels-photo-7446659.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "author": "Gustavo Fring",
+    "width": 1600,
+    "height": 1067,
+    "bytes": 60692,
+    "usage": "Stock hangulatkép, nem a valódi szalon vagy Eliza fotója"
+  },
+  {
+    "file": "images/skincare.webp",
+    "source": "https://www.pexels.com/photo/mirror-and-brown-bottles-on-white-surface-8100778/",
+    "download": "https://images.pexels.com/photos/8100778/pexels-photo-8100778.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "author": "Polina",
+    "width": 1600,
+    "height": 1201,
+    "bytes": 76420,
+    "usage": "Stock hangulatkép, nem a valódi szalon vagy Eliza fotója"
+  }
+]
