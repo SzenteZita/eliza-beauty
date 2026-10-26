@@ -1,7 +1,12 @@
 {
-  "phase": "prototypes_complete",
+  "phase": "site_local_complete",
   "is_redesign": false,
   "source_url": null,
   "direction_count": 3,
-  "directions_status": "approved"
+  "directions_status": "approved",
+  "selected_direction": 3,
+  "privacy_status": "awaiting_course_template",
+  "form_status": "netlify_prepared_disabled",
+  "github_status": "connection_pending",
+  "netlify_status": "not_deployed"
 }
