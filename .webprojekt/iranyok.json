@@ -1,0 +1,111 @@
+{
+  "directions": [
+    {
+      "id": 1,
+      "slug": "csendes-enido",
+      "name": "Csendes énidő",
+      "description": "Nagy, teljes szélességű szalonhangulat-fotó alatt balra rendezett cím és rövid bevezető. Bőséges krém tér, hosszú képsávok és külön megjelenő vendégidézetek.",
+      "rationale": "A privát kezelések nyugalmát és a feltöltődést helyezi előtérbe.",
+      "palette": {
+        "primary": "#8E4A5A",
+        "secondary": "#6E3644",
+        "accent": "#C9A27E",
+        "bg": "#FAF6F2",
+        "surface": "#F1E6DF",
+        "text": "#2E2626",
+        "muted": "#6B5F5C"
+      },
+      "fonts": {
+        "heading": {
+          "family": "Cormorant Garamond",
+          "fallback": "Georgia, serif"
+        },
+        "body": {
+          "family": "Jost",
+          "fallback": "system-ui, sans-serif"
+        },
+        "google_fonts_url": "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&family=Jost:wght@400;500&display=swap"
+      },
+      "contrast_axes": {
+        "density": "spacious",
+        "typography": "finom, közepes súlyú hierarchia",
+        "hero": "panorámakép és alatta szöveg",
+        "visual_metaphor": "szalontér",
+        "rhythm": "hosszú képsávok és levegős szövegek",
+        "proof": "véleményközpontú"
+      }
+    },
+    {
+      "id": 2,
+      "slug": "szemelyes-torodes",
+      "name": "Személyes törődés",
+      "description": "Aszimmetrikus, osztott nyitóképernyő: balra nagy cím, jobbra közeli kezelési fotó. Váltakozó kép–szöveg szakaszok, púder felületek és személyes hangú bemutatkozás.",
+      "rationale": "Eliza egyéni figyelmét és a személyre szabott kezelési tervet emeli ki.",
+      "palette": {
+        "primary": "#8E4A5A",
+        "secondary": "#6E3644",
+        "accent": "#C9A27E",
+        "bg": "#FAF6F2",
+        "surface": "#F1E6DF",
+        "text": "#2E2626",
+        "muted": "#6B5F5C"
+      },
+      "fonts": {
+        "heading": {
+          "family": "Cormorant Garamond",
+          "fallback": "Georgia, serif"
+        },
+        "body": {
+          "family": "Jost",
+          "fallback": "system-ui, sans-serif"
+        },
+        "google_fonts_url": "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&family=Jost:wght@400;500&display=swap"
+      },
+      "contrast_axes": {
+        "density": "balanced",
+        "typography": "erős cím és törzsszöveg méretkontraszt",
+        "hero": "aszimmetrikus osztott képernyő",
+        "visual_metaphor": "személyes konzultáció",
+        "rhythm": "váltakozó kép–szöveg",
+        "proof": "szakmai háttér és vendégidézet"
+      }
+    },
+    {
+      "id": 3,
+      "slug": "bortudatos-muhely",
+      "name": "Bőrtudatos műhely",
+      "description": "Középre rendezett, tipográfiára épülő nyitás, alatta három eltérő képkivágás. Kompaktabb kezelési áttekintés, jól tagolt folyamat és kakaó hátterű garanciaszakasz.",
+      "rationale": "A kezelések megértését és az átgondolt választást támogatja.",
+      "palette": {
+        "primary": "#8E4A5A",
+        "secondary": "#6E3644",
+        "accent": "#C9A27E",
+        "bg": "#FAF6F2",
+        "surface": "#F1E6DF",
+        "text": "#2E2626",
+        "muted": "#6B5F5C"
+      },
+      "fonts": {
+        "heading": {
+          "family": "Cormorant Garamond",
+          "fallback": "Georgia, serif"
+        },
+        "body": {
+          "family": "Jost",
+          "fallback": "system-ui, sans-serif"
+        },
+        "google_fonts_url": "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&family=Jost:wght@400;500&display=swap"
+      },
+      "contrast_axes": {
+        "density": "compact-balanced",
+        "typography": "határozott 600-as címsúly, tömörebb hierarchia",
+        "hero": "középre rendezett tipografikus nyitás és képtriptichon",
+        "visual_metaphor": "kezelési műhely",
+        "rhythm": "rendezett kezelési blokkok és kontrasztos garancia",
+        "proof": "kezelési folyamat és garancia"
+      }
+    }
+  ],
+  "total": 3,
+  "status": "approved"
+}
