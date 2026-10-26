@@ -4,7 +4,7 @@ Magyar nyelvű, statikus kozmetikai szalonwebhely a jóváhagyott Bőrtudatos m�
 
 ## Fájlok
 
-- `site/`: a négy főoldal/aloldal, az adatkezelési állapotoldal, köszönőoldal és közös assetek.
+- `site/`: a négy főoldal/aloldal, az adatkezelési tájékoztató, köszönőoldal és közös assetek.
 - `dist/`: a Netlify-ra feltölthető kész fájlok.
 - `index.html` és `koncepcio-*.html`: a megőrzött három korábbi prototípus.
 - `alapanyag/`: a kapott szöveg és arculat.
@@ -33,9 +33,11 @@ Első publikálás: 2026. október 26., Netlify Drop fájlfeltöltéssel. A GitH
 
 Netlify publikálási könyvtár: `dist`, buildparancs nem szükséges, ha a commitolt dist tartalma naprakész. Konfiguráció: `netlify.toml`.
 
-Az `idopontkeres` Netlify Forms űrlap mind a négy fő oldalon jelen van, honeypot mezővel. Az `assets/config.json` fájlban a `formsEnabled` jelenleg false: az űrlap nem küld adatot. A hiányzó adatkezelési sablon kitöltése és a Netlify Forms engedélyezése után kapcsolható true-ra. A fogadó e-mail szerveroldali Netlify-értesítési beállítás, nem nyilvános forrásadat; helyi értéke a Git által figyelmen kívül hagyott `.webprojekt/local/form-settings.json` fájlban van.
+Az `idopontkeres` Netlify Forms űrlap mind a négy fő oldalon jelen van, honeypot mezővel és kötelező, előre nem bejelölt hozzájárulási mezővel. Az űrlap engedélyezve, a Netlify automatikus formfelismerése és az e-mail-értesítés beállítva. Az oktatási teszt nem hoz létre valódi szalonfoglalást.
 
-A véglegesítés sorrendje: adatkezelési sablon kitöltése; GitHub-repó létrehozása és push; Netlify-projekt összekapcsolása; Forms-érzékelés és fogadó értesítés beállítása; űrlap engedélyezése és deploy; valódi tesztüzenet beérkezésének ellenőrzése. Sikeres HTTP-válasz önmagában nem igazolja az e-mail kézbesítését.
+Az adatkezelési tájékoztató a kapott Fegyvertár-sablonból, a tényleges működéshez igazítva készült. Adatkezelő Szente Zita, a kapcsolati e-mail-cím nyilvános feltüntetését a projektgazda engedélyezte. A tesztüzeneteket a projektgazdának manuálisan törölnie kell a Netlify-ból és postafiókjából, a teszt lezárásakor, legkésőbb 30 napon belül.
+
+2026. október 26-án az élő Kapcsolat oldalról küldött próbaüzenet után megjelent a köszönőoldal, a Netlify Forms pedig 1 beérkezett beküldést mutatott. Az e-mail tényleges beérkezése még ellenőrzés alatt áll.
 
 A Kisokos opcionális funkció. A fájl nem szerepelt az alapanyagban, ezért jelenleg tájékoztató blokk van működést ígérő feliratkozóűrlap helyett.
 
